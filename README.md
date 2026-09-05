@@ -1,6 +1,6 @@
 # Muhammad Saad
 
-# Open to full time roles
+## Open to full time roles
 Full stack engineer in Lahore. I build the automation that answers a
 business's messages, calls its leads, updates its CRM and sends the
 follow ups.
