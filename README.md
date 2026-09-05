@@ -1,16 +1,22 @@
-## Hi there 👋
+# Muhammad Saad
 
-<!--
-**Saadi-Official927/Saadi-Official927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full stack engineer in Lahore. I build the automation that answers a
+business's messages, calls its leads, updates its CRM and sends the
+follow ups.
 
-Here are some ideas to get you started:
+**Stack:** Node.js, NestJS, Express, React, Next.js, TypeScript,
+MongoDB, PostgreSQL, Redis, Docker, AWS, Nginx
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Automation and AI:** n8n, Make, GoHighLevel, WhatsApp Business API
+(Cloud API and WATI), Twilio voice and SMS, OpenAI and Anthropic APIs,
+RAG pipelines
+
+**What I work on:** omnichannel messaging platforms, AI voice and call
+centre systems, CRM and pipeline automation, multi tenant SaaS,
+payment integrations with Stripe and PayPal
+
+Most of my production work sits in private client repositories. The
+repos here are the pieces I can share, plus documentation for the
+products I have built.
+
+LinkedIn - https://linkedin.com/in/muhammadsaad927 - msaadamin0334@gmail.com  
